@@ -1,0 +1,27 @@
+<svg width="97" height="97" viewBox="0 0 97 97" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="BoundingBox">
+<g id="Icon">
+<path id="Shape3" d="M30.5837 11.2219C31.1325 9.59577 32.6574 8.50098 34.3736 8.50098H59.502L33.4203 85.7801C32.8715 87.4062 31.3465 88.501 29.6303 88.501H10.0736C7.33709 88.501 5.40857 85.8147 6.28365 83.2219L30.5837 11.2219Z" fill="url(#paint0_linear_5969_241633)"/>
+<path id="Shape2" d="M70.7552 60.5H31.1532C29.4892 60.5 28.6858 62.5382 29.9022 63.6736L55.3493 87.4242C56.09 88.1155 57.0654 88.5 58.0786 88.5H80.502L70.7552 60.5Z" fill="#0078D4"/>
+<path id="DropShadow" d="M34.3734 8.50098C32.6572 8.50098 31.1323 9.59577 30.5835 11.2219L6.28347 83.2219C5.40838 85.8147 7.3369 88.501 10.0734 88.501H29.6301C31.3463 88.501 32.8713 87.4062 33.4201 85.7801L38.251 71.4664L55.3487 87.4242C56.0893 88.1155 57.0648 88.5 58.0779 88.5H80.5013L70.7545 60.5H41.9521L59.5018 8.50098H34.3734Z" fill="url(#paint1_linear_5969_241633)"/>
+<path id="Shape1" d="M66.4203 11.2209C65.8714 9.59479 64.3465 8.5 62.6303 8.5H34.502H34.6303C36.3465 8.5 37.8714 9.59479 38.4203 11.2209L62.7203 83.2209C63.5953 85.8137 61.6668 88.5 58.9303 88.5H58.502H86.9303C89.6668 88.5 91.5953 85.8137 90.7203 83.2209L66.4203 11.2209Z" fill="url(#paint2_linear_5969_241633)"/>
+</g>
+</g>
+<defs>
+<linearGradient id="paint0_linear_5969_241633" x1="34.2024" y1="11.2701" x2="8.11071" y2="88.3512" gradientUnits="userSpaceOnUse">
+<stop stop-color="#114A8B"/>
+<stop offset="1" stop-color="#0669BC"/>
+</linearGradient>
+<linearGradient id="paint1_linear_5969_241633" x1="55.0538" y1="60.5094" x2="49.0247" y2="62.5479" gradientUnits="userSpaceOnUse">
+<stop stop-opacity="0.3"/>
+<stop offset="0.0711768" stop-opacity="0.2"/>
+<stop offset="0.321031" stop-opacity="0.1"/>
+<stop offset="0.623053" stop-opacity="0.05"/>
+<stop offset="1" stop-opacity="0"/>
+</linearGradient>
+<linearGradient id="paint2_linear_5969_241633" x1="50.7442" y1="11.2692" x2="79.3846" y2="87.5745" gradientUnits="userSpaceOnUse">
+<stop stop-color="#3CCBF4"/>
+<stop offset="1" stop-color="#2892DF"/>
+</linearGradient>
+</defs>
+</svg>
